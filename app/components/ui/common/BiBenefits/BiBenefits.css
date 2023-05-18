@@ -1,0 +1,117 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* Vertical Line*/
+  .child:nth-child(2) {
+    position: relative;
+  }
+
+  /* Vertical Line 1*/
+  .child:nth-child(2)::before {
+    position: absolute;
+    display: block;
+    content: "";
+    border-right: 1.5px solid transparent;
+    border-image: linear-gradient(to bottom, #ffffff, #410ead, #ffffff) 1;
+    width: 1px;
+    height: 280%;
+    top: 40%;
+    left: -10%;
+  }
+
+  .child:nth-child(2)::after {
+    display: none;
+  }
+
+  /* Horizontal Line*/
+  .child:nth-child(1) {
+    position: relative;
+    border-bottom: 1.5px solid transparent;
+  }
+
+  /* Horizontal Line 1*/
+  .child:nth-child(1)::before {
+    position: absolute;
+    display: block;
+    content: "";
+    rotate: 90deg;
+    border-left: 1.5px solid transparent;
+    border-image: linear-gradient(to top, #ffffff, #410ead, #ffffff) 1;
+    width: 1px;
+    height: 250%;
+    bottom: 50%;
+    top: -15%;
+    left: 115%;
+  }
+
+  /* Horizontal Line 2*/
+  .child:nth-child(1)::after {
+    position: absolute;
+    display: block;
+    content: "";
+    rotate: 90deg;
+    border-left: 1.5px solid transparent;
+    border-image: linear-gradient(to top, #ffffff, #410ead, #ffffff) 1;
+    width: 1px;
+    height: 250%;
+    bottom: 50%;
+    top: 105%;
+    left: 115%;
+  }
+}
+
+@media (min-width: 1024px) {
+  /* Vertical Lines */
+  .child:nth-child(2) {
+    position: relative;
+  }
+
+  /* Vertical Line 1*/
+  .child:nth-child(2)::before {
+    position: absolute;
+    display: block;
+    content: "";
+    border-right: 1.5px solid transparent;
+    border-image: linear-gradient(to bottom, #ffffff, #410ead, #ffffff) 1;
+    width: 1px;
+    height: 150%;
+    top: 50%;
+    left: -3%;
+  }
+
+  /* Vertical Line 2*/
+  .child:nth-child(2)::after {
+    position: absolute;
+    display: block;
+    content: "";
+    border-right: 1.5px solid transparent;
+    border-image: linear-gradient(to bottom, #ffffff, #410ead, #ffffff) 1;
+    width: 1px;
+    height: 150%;
+    top: 50%;
+    right: -3%;
+  }
+
+  /* Horizontal Line*/
+  .child:nth-child(1) {
+    position: relative;
+    border-bottom: 1.5px solid transparent;
+  }
+
+  .child:nth-child(1)::before {
+    display: none;
+  }
+
+  /* Horizontal Line 1*/
+  .child:nth-child(1)::after {
+    position: absolute;
+    display: block;
+    content: "";
+    rotate: 90deg;
+    border-left: 1.5px solid transparent;
+    border-image: linear-gradient(to top, #ffffff, #410ead, #ffffff) 1;
+    width: 1px;
+    height: 450%;
+    bottom: 50%;
+    top: -110%;
+    left: 155%;
+  }
+}

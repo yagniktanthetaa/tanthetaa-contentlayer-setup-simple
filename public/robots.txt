@@ -1,0 +1,10 @@
+# Allow all user agents.
+User-agent: *
+Allow: /*
+
+# User agent "Googlebot" should not crawl the `https://www.tanthetaa.com/nogooglebot/` folder or any of its subdirectories.
+User-agent: Googlebot
+Disallow: /nogooglebot/
+Disallow: /api/*
+Disallow: /_next/*
+Disallow: /js

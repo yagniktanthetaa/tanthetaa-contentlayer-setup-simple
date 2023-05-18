@@ -1,0 +1,11 @@
+.circleSign li {
+  list-style: disc !important;
+}
+.hoverColor a:hover {
+  /* font-weight: bold; */
+  color: #7b3fe4 !important;
+}
+.gradient-border-bottom {
+  border-bottom: 1.8px solid transparent;
+  border-image: linear-gradient(to right, #f6f3fb, #410ead, #f6f3fb) 1;
+}

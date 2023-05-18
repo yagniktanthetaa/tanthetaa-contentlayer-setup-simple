@@ -1,0 +1,380 @@
+.MainMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-mono);
+}
+
+.dropdownMenu a:hover {
+  color: #410ead;
+  font-weight: bold !important;
+  /* color: #29e248; */
+}
+
+.is-sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: white !important;
+  color: black !important;
+  /* box-shadow: 0 2px 24px 0 rgb(0 0 0 / 15%); */
+  -webkit-transition: background-color 300ms linear;
+  -moz-transition: background-color 300ms linear;
+  -o-transition: background-color 300ms linear;
+  -ms-transition: background-color 300ms linear;
+  transition: background-color 300ms linear;
+}
+
+.btnContect {
+  font-style: normal;
+  font-weight: 600;
+  /* font-size: 20px;
+  line-height: 21px; */
+  background-color: #29e248;
+  color: #000000;
+  cursor: pointer;
+  z-index: 99999;
+  position: relative;
+}
+
+.btnConnect {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: white;
+  color: #410ead;
+  cursor: pointer;
+  z-index: 99999;
+  position: relative;
+}
+
+.BgColor {
+  background-color: rgb(184 252 195 / 30%);
+}
+
+.subMenuTitle {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.BgTab {
+  background-color: #410ead;
+  color: white;
+}
+
+.subMenusList a {
+  font-size: 16px;
+}
+
+.BgSubTitle {
+  background-color: #410ead;
+}
+.menuTitle {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  padding: 20px 16px;
+}
+
+.Menu {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  /* gap: 30px; */
+}
+
+.MenuList:hover {
+  color: #fff;
+}
+
+.tabHover:hover {
+  background-color: #fff;
+  color: #410ead;
+  cursor: pointer;
+}
+
+.GradientBorder {
+  padding-left: 48px;
+  border-left: 1.5px solid transparent;
+  border-image: linear-gradient(to bottom, #ffffff, #410ead, #ffffff) 1;
+}
+
+.dropdownMenu {
+  /* top: 61px; */
+  min-width: 100%;
+  background: white;
+  position: absolute;
+  z-index: 9999 !important;
+  left: 0;
+  height: auto;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.dropsub:hover ul.dropdownMenu {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* .dropsub ul.dropdownMenu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.dropsub ul.dropdownMenu {
+  opacity: 0;
+  visibility: hidden;
+} */
+
+.dropsub:hover ul.dropdownMenu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.ProductSub {
+  color: black;
+}
+
+.MoreTitle {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.sumTitlePre {
+  font-style: normal;
+  font-size: 14px;
+  font-family: var(--font-inter);
+  color: #59587b;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #faf7ff;
+  overflow-x: hidden;
+  transition: 1.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #222222;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #222222;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 96px;
+  font-size: 40px;
+  margin-left: 50px;
+  color: #000000;
+}
+
+.mobileView {
+  display: none;
+}
+
+.content {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-60%, -50%);
+}
+
+.boderedtext {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+  color: transparent !important;
+}
+
+.dropdown-btn {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: capitalize;
+  color: #222222;
+}
+
+.dropdown-btn:focus {
+  outline: 0;
+}
+
+.dropdown-menu {
+  position: sticky;
+  top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-height: 0;
+  width: 100%;
+  -webkit-transition: max-height, 0.8s ease-in-out;
+  transition: max-height, 0.8s ease-in-out;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.display-menu {
+  max-height: 100vh;
+}
+
+.menu-link {
+  text-decoration: none;
+  font-size: 1.4rem;
+  width: 100%;
+  padding: 0px 0 20px 30px;
+}
+
+.menu-link:focus {
+  outline: 0;
+}
+
+.cover {
+  height: max-content;
+  background-color: #c5c5c5;
+}
+
+.close .faq-arrow {
+  transition: 1s;
+  width: 15px;
+  transform: rotate(360deg);
+}
+
+.open .faq-arrow {
+  width: 15px;
+  transform: rotate(180deg);
+  transition: 1s;
+}
+.btnContact {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 21px;
+  background-color: #29e248;
+  color: #ffffff;
+  transition: all 0.5s ease;
+}
+.btnContact:hover {
+  background: #410ead;
+  color: white !important;
+}
+/* .shadows {
+  box-shadow: 0 20px 564px rgba(0, 0, 0, 0.1) !important;
+  opacity: 1 !important;
+  z-index: 10 !important;
+  visibility: visible;
+} */
+
+@media screen and (max-width: 1024px) {
+  .menuTitle {
+    font-size: 12px;
+    padding: 16px 8px;
+  }
+
+  .MainMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .subMenuTitle {
+    font-size: 14px !important;
+  }
+
+  .mobileView {
+    display: none;
+  }
+
+  .sidenav a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #222222;
+    display: block;
+    transition: 0.3s;
+  }
+}
+@media screen and (max-width: 768px) {
+  .MainMenu {
+    display: none;
+  }
+
+  .mobileView {
+    display: block;
+  }
+
+  .sidenav a {
+    font-size: 14px;
+  }
+
+  .sidenav .closebtn {
+    position: absolute;
+    top: 9px;
+    right: 30px;
+    font-size: 40px;
+    margin-left: 50px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .sidenav .closebtn {
+    position: absolute;
+    top: 6px;
+    right: 26px;
+    font-size: 40px;
+    margin-left: 50px;
+  }
+
+  .mobileView {
+    display: block;
+    /* padding: 15px; */
+  }
+}
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 50px;
+  }
+
+  .sidenav a {
+    font-size: 16px;
+  }
+
+  .sidenav .closebtn {
+    position: absolute;
+    top: 6px;
+    right: 26px;
+    font-size: 40px;
+    margin-left: 50px;
+  }
+}

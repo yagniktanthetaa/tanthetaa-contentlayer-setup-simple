@@ -1,0 +1,20 @@
+.power-bi-services {
+  position: relative;
+}
+.power-bi-services::after {
+  display: block;
+  content: "";
+  border-right: 1.5px solid transparent;
+  border-image: linear-gradient(to bottom, #ffffff, #410ead, #ffffff) 1;
+  width: 1px;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 1/2;
+}
+
+@media (max-width: 1023px) {
+  .power-bi-services::after {
+    display: none;
+  }
+}

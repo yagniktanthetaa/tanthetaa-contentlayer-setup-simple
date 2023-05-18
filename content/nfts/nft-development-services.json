@@ -1,0 +1,760 @@
+{
+  "data": {
+    "metadata": {
+      "title": "NFT Development Services - Best NFT Development Company - Tan θ",
+      "description": "Tan θ Software Studio is an experienced NFT development company that helps you create non-fungible tokens. Tokenize your creative works with us today and experience the advantages of this disruptive technology. We are considered as the Best NFTs & Blockchain Development company in USA",
+      "icons": {
+        "icon": "/tanthetaa_logo.png",
+        "shortcut": "/tanthetaa_logo.png",
+        "apple": "/tanthetaa_logo.png",
+        "other": {
+          "rel": "tanthetaa-touch-icon-precomposed",
+          "url": "/tanthetaa_logo.png"
+        }
+      },
+      "keywords": "NFT Development Service USA, Best NFT Solutions Hyperledger, NFT Development on Solana, NFT Development on Cardano, NFT Development on Ethereum, NFT Development on Polygon, Create nft in less cost, nft app development comapny, nft marketplace development company, build nft marketplace",
+      "openGraph": {
+        "title": "Tan θ | NFT Development Services",
+        "description": "Tan θ Software Studio is an experienced NFT development company that helps you create non-fungible tokens. Tokenize your creative works with us today and experience the advantages of this disruptive technology.We provide best services in all kind of NFTs & Blockchain Development in USA",
+        "url": "https://tanthetaa.com/nfts/nft-development-services/",
+        "siteName": "TaTan θ | Blockchain & Web3 Development Company",
+        "images": [
+          {
+            "url": "/tanthetaa_logo.png",
+            "width": 800,
+            "height": 600,
+            "alt": "Tan θ | Blockchain & Web3 Development Company"
+          },
+          {
+            "url": "/tanthetaa_logo.png",
+            "width": 1800,
+            "height": 1600,
+            "alt": "Tan θ | Blockchain & Web3 Development Company"
+          }
+        ],
+        "locale": "en-US, en-GB, en-AU, en-CA, en-IN, en-NZ",
+        "type": "website"
+      }
+    },
+    "header": {
+      "title": "NFT",
+      "subtitle": "Development",
+      "subtitle1": "Company",
+      "description": "Tan θ Software Studio is an experienced NFT development company that helps you create non-fungible tokens. Tokenize your creative works with us today and experience the advantages of this disruptive technology.",
+      "description1": "Are you looking for assistance in building a high-performance, multi-functional NFT marketplace? Do you want to tokenize your digital collectibles and introduce a unique non-fungible token that can be traded across various marketplaces to find the best deal effortlessly? Our team of quality NFT developers is well-equipped to handle all these tasks with expertise and professionalism. Contact us today for reliable assistance.",
+      "bgImage": "nftBackground",
+      "buttonName": "Get a Free Quote"
+    },
+    "section1": {
+      "title": "Why Us For NFT Development?",
+      "subtitle": "",
+      "description": "Tan θ Software Studio is a highly acclaimed provider of NFT development services, catering to the needs of both enterprises and creators. Our team of seasoned NFT developers possesses in-depth knowledge and expertise in crafting cutting-edge NFTs that can seamlessly integrate with the latest technologies and overcome any business challenges. We take pride in offering bespoke NFT asset creation services tailored to your specific requirements, while also ensuring that your NFTs stay ahead of the current trends.",
+      "description1": "We possess extensive expertise in creating smart contract programs, which ensures that NFT ventures can operate with utmost transparency. Our team's assistance in creating, selling, and trading NFT assets ensures a hassle-free experience for you. Please feel free to get in touch with us to schedule a complimentary consultation session to discuss your new NFT business plan."
+    },
+    "section2": {
+      "title": "Standout Features Of NFTs",
+      "subtitle": "",
+      "description": "NFTs come with a range of features that are beneficial for Entrepreneurs, artists, and enthusiasts and we'll take a closer look at some of them below. Below are the most important features to take care of while development.",
+      "services": [
+        {
+          "id": 1,
+          "image": "ownership",
+          "alt": "ownership",
+          "title": "Ownership",
+          "description": "Ownership is a core feature of non-fungible tokens (NFTs) because each NFT is unique and has a specific owner recorded on a blockchain. This enables creators to prove ownership of their digital creations and buyers to be confident in the authenticity of their purchase."
+        },
+        {
+          "id": 2,
+          "image": "transferability",
+          "alt": "transferability",
+          "title": "Programmability",
+          "description": "NFTs' programmability via smart contracts automates actions like royalty payments and resale rights,This provides a more efficient and secure way to enforce certain conditions or actions, opening up new and innovative use cases for creators and buyers."
+        },
+        {
+          "id": 3,
+          "image": "royaltiesforReselling",
+          "alt": "royaltiesforReselling",
+          "title": "Indivisibility",
+          "description": "NFTs' indivisibility sets them apart from other digital assets by making each token unique and impossible to exchange for an identical one, which is ideal for representing rare or unique digital assets like collectibles or art."
+        },
+        {
+          "id": 4,
+          "image": "inclusiveGrowth",
+          "alt": "inclusiveGrowth",
+          "title": "Interoperability",
+          "description": "NFTs are traded on marketplaces, either centralized or decentralized, and can be easily transferred between different blockchains thanks to their interoperability feature."
+        }
+      ]
+    },
+    "section3": {
+      "title": "Steps Of Our NFT Development Process",
+      "services": [
+        {
+          "id": 1,
+          "image": "initialConsultation",
+          "alt": "initialConsultation",
+          "title": "Ideation and Conceptualization",
+          "description": "The first step involves brainstorming and coming up with creative ideas for NFTs that align with the client's objectives."
+        },
+        {
+          "id": 2,
+          "image": "blueprintCreation",
+          "alt": "blueprintCreation",
+          "title": "NFT Design",
+          "description": "Once the concept is finalized, our team of designers creates visually stunning NFTs that capture the essence of the concept."
+        },
+        {
+          "id": 3,
+          "image": "development",
+          "alt": "development",
+          "title": "Smart Contract Development",
+          "description": "The next step involves writing smart contracts that define the unique properties of the NFT, including its metadata, ownership rules, and transferability."
+        },
+        {
+          "id": 4,
+          "image": "qualityAssurance",
+          "alt": "qualityAssurance",
+          "title": "Testing",
+          "description": "After developing the smart contract, we test it rigorously to ensure that it is secure, reliable, and functional."
+        },
+        {
+          "id": 5,
+          "image": "launchandMaintain",
+          "alt": "launchandMaintain",
+          "title": "Deployment and Integration",
+          "description": "After completing testing, we mint the NFT on the selected blockchain and deploy it to the client's wallet, then integrate it into the chosen marketplace for buying and selling."
+        },
+        {
+          "id": 6,
+          "image": "launchandMaintain",
+          "alt": "launchandMaintain",
+          "title": "Launch and Maintain",
+          "description": "After the successful launch of your NFT project for public trading, we offer continuous maintenance services to keep it optimized and aligned with the latest industry trends and technologies."
+        }
+      ]
+    },
+    "section4": {
+      "title": "Types of NFT Development",
+      "subtitle": "Our Company Offers",
+      "description": "Our company provides various types of NFTs to cater to the diverse needs of businesses. Some of the NFTs we offer include:",
+      "backgroundColor": "bg-black",
+      "services": [
+        {
+          "id": 1,
+          "title": "Time-Based NFTs:",
+          "description": "These NFTs represent time-based experiences such as virtual hotel stays or access to digital content for a limited time.",
+          "titleColor": "text-[#FF4242]"
+        },
+        {
+          "id": 2,
+          "title": "Gaming NFTs:",
+          "description": "These NFTs are used in various gaming platforms to represent in-game items or assets such as weapons, skins, and characters.",
+          "titleColor": "text-[#8484FF]"
+        },
+        {
+          "id": 3,
+          "title": "Weather NFTs",
+          "description": " These NFTs represent weather data such as temperature, precipitation, or wind speed, and can be used for scientific research or insurance purposes.",
+          "titleColor": "text-[#58FF58]"
+        },
+        {
+          "id": 4,
+          "title": "Insurance NFTs",
+          "description": "These NFTs represent insurance policies or claims, providing a secure and transparent way to manage and transfer insurance contracts.",
+          "titleColor": "text-[#FF9B58]"
+        },
+        {
+          "id": 5,
+          "title": "Supply chain NFTs",
+          "description": "These NFTs represent product ownership and traceability throughout the supply chain, from raw materials to finished products.",
+          "titleColor": "text-[#FFFF00]"
+        },
+        {
+          "id": 6,
+          "title": "Literature NFTs",
+          "description": "These NFTs represent ownership of literary works such as books, poems, or articles.",
+          "titleColor": "text-[#C05AFF]"
+        },
+        {
+          "id": 7,
+          "title": "Domain NFTs",
+          "description": "These NFTs represent ownership of domain names on the blockchain, allowing for decentralized website hosting",
+          "titleColor": "text-[#FF449E]"
+        },
+        {
+          "id": 8,
+          "title": "Virtual Land NFTs",
+          "description": "These NFTs represent virtual land parcels in virtual worlds or metaverses, providing owners with a virtual real estate asset.",
+          "titleColor": "text-[#60FFFF]"
+        },
+        {
+          "id": 9,
+          "title": "Identity Verification NFTs:",
+          "description": "These NFTs represent verified identities, allowing for secure and trusted identity verification in various industries such as finance and healthcare.",
+          "titleColor": "text-[#D158A1]"
+        },
+        {
+          "id": 10,
+          "title": "Music NFTs",
+          "description": " These NFTs represent music rights, ownership, or unique experiences, such as backstage passes, concert tickets, and meet-and-greet opportunities.",
+          "titleColor": "text-[#D3AE66]"
+        },
+        {
+          "id": 11,
+          "title": "Cross-chain NFTs",
+          "description": "Our NFT development services create interoperable NFTs that can function seamlessly across multiple blockchain networks, defined within the NFT code.",
+          "titleColor": "text-[#629DD3]"
+        },
+        {
+          "id": 12,
+          "title": "Health NFTs",
+          "description": "These NFTs represent health data such as medical records, fitness achievements, or genetic information, allowing for secure and private storage and sharing of sensitive health data.",
+          "titleColor": "text-[#C26B6B]"
+        },
+        {
+          "id": 13,
+          "title": "Education NFTs",
+          "description": "These NFTs represent educational content, such as online courses, certifications, or diplomas, providing proof of learning and achievement.",
+          "titleColor": "text-[#00D3E0]"
+        },
+        {
+          "id": 14,
+          "title": "Carbon Credit NFTs",
+          "description": "These NFTs represent carbon credits, which can be used to offset carbon emissions and promote sustainability",
+          "titleColor": "text-[#E47C42]"
+        },
+        {
+          "id": 15,
+          "title": "Patent NFTs",
+          "description": "These NFTs represent ownership of patents, allowing the owner to enforce their patent rights on the blockchain.",
+          "titleColor": "text-[#8BBC00]"
+        },
+        {
+          "id": 16,
+          "title": "Social Media NFTs",
+          "description": "These NFTs represent social media content, such as tweets, posts, or videos, allowing creators to monetize their digital content",
+          "titleColor": "text-[#D55106]"
+        },
+        {
+          "id": 17,
+          "title": "Virtual pet NFTs",
+          "description": "These are NFTs that represent virtual pets or creatures that can be owned and traded on the blockchain",
+          "titleColor": "text-[#FF6946]"
+        },
+        {
+          "id": 18,
+          "title": "E-Commerce NFTs",
+          "description": "Our team of experts can create NFTs specifically designed for eCommerce businesses, providing solutions to issues such as counterfeit products and logistics management.",
+          "titleColor": "text-[#F1CD39]"
+        },
+        {
+          "id": 19,
+          "title": "Charity NFTs",
+          "description": "These NFTs represent charitable donations or contributions, enabling transparency and accountability in charitable giving.",
+          "titleColor": "text-[#03A4FF]"
+        },
+        {
+          "id": 20,
+          "title": "Legal NFTs",
+          "description": "These NFTs represent legal contracts, licenses, or patents, which can be used for decentralized contract management and intellectual property protection",
+          "titleColor": "text-[#3FE495]"
+        }
+      ]
+    },
+    "section5": {
+      "title": "Our Approach In NFT Development Services",
+      "subtitle": "",
+      "description": "At Tan θ Software Studio, we specialize in creating NFTs that are fully decentralized and can seamlessly operate across Web3 technology, including DeFi. We prioritize the principles of decentralization to offer maximum flexibility and functionality within the rapidly evolving world of blockchain. Our NFTs embrace the potential of DeFi and are designed for the future of virtual communities.",
+      "description1": "NFTs can serve as collateral in crypto loaning with DeFi. With Web3, decentralized banking with NFT assets is possible. Our experts provide flexible smart contracts optimized for DeFi collateralization in all NFT projects. Trust us for reliable and secure NFT-related financial solutions.",
+      "description2": "Our NFT development company provides expert smart contract creation services that seamlessly integrate multiple DeFi functionalities. We prioritize Web3 ethics to ensure the longevity and effectiveness of your NFTs. Contact us to get started on your new NFT project today.",
+      "title1": "Trading Features",
+      "services": [
+        {
+          "id": 1,
+          "title": "NFT Launchpad Development",
+          "description": "Build a bespoke launchpad for NFTs, allowing artists and startups to crowdfund and launch their NFT projects with ease.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 2,
+          "title": "NFT Vesting Solutions",
+          "description": "Offer solutions to vest NFTs, giving owners more control over how and when their NFTs are traded or transferred.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 3,
+          "title": "NFT Marketplace Development",
+          "description": "Create a decentralized marketplace for buying and selling NFTs, allowing for a more secure and transparent trading experience",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 4,
+          "title": "NFT Fractionalization",
+          "description": "Develop a system for fractionalizing NFTs, allowing owners to sell portions of their NFTs to multiple buyers.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 5,
+          "title": "NFT Tokenization",
+          "description": "Tokenize NFTs, allowing them to be used as collateral for loans or other financial instruments.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 6,
+          "title": "NFT Portfolio Management",
+          "description": "Create tools for managing NFT portfolios, including tracking and analyzing NFT values over time.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 7,
+          "title": "NFT Royalty Management",
+          "description": "Develop a system for managing NFT royalties, ensuring that creators are compensated for their work as it changes hands.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        },
+        {
+          "id": 8,
+          "title": "NFT Governance",
+          "description": "Create a system for decentralized governance of NFTs, allowing owners to have a say in how they are used and managed.",
+          "buttonName": "Learn more",
+          "bgImage": "tradingFractures"
+        }
+      ]
+    },
+    "section6": {
+      "title": "What makes us stand out in NFT Space?",
+      "subtitle": "",
+      "description": "Our Tan θ Software Studio team is the most preferred destination for NFT software development due to our exceptional solutions, extensive experience in NFT development, and many other reasons.",
+      "services": [
+        {
+          "id": 1,
+          "title": "Exceptional track record",
+          "description": "We have a proven track record of delivering high-quality NFT solutions to our clients, which has helped us gain a reputation as a trusted and reliable partner",
+          "image": "inclusiveGrowth",
+          "alt": "Learn more"
+        },
+        {
+          "id": 2,
+          "title": "In-depth knowledge",
+          "description": "Our team comprises highly skilled professionals with a deep understanding of the NFT ecosystem. We stay up-to-date with the latest trends and technologies to ensure that we provide the best solutions to our clients.",
+          "image": "projectsinProgress",
+          "alt": "Learn more"
+        },
+        {
+          "id": 3,
+          "title": "Customized solutions",
+          "description": "We understand that each client has unique needs and requirements. That's why we offer customized solutions tailored to each client's specific needs.",
+          "image": "initialConsultation",
+          "alt": "Learn more"
+        },
+        {
+          "id": 4,
+          "title": "Cost-Effective Services",
+          "description": "We offer our services at competitive prices to ensure that our clients receive the best value for their investment. Our services are cost-effective without compromising on quality.",
+          "image": "projectsCompleted",
+          "alt": "Learn more"
+        },
+        {
+          "id": 5,
+          "title": "Timely delivery",
+          "description": "We understand the importance of delivering solutions on time. Our team works efficiently to ensure that we meet our clients' deadlines without compromising on quality.",
+          "image": "realTime",
+          "alt": "Learn more"
+        },
+        {
+          "id": 6,
+          "title": "Guaranteed Data Security",
+          "description": "To ensure complete confidentiality of our clients' projects, our NFT development services include the signing of an (NDA) by our NFT Marketplace Development experts.",
+          "image": "sqlAnalysis",
+          "alt": "Learn more"
+        }
+      ]
+    },
+    "section7": {
+      "title": "We are Partnered With",
+      "subtitle": "",
+      "services": [
+        {
+          "id": 1,
+          "image": "certix",
+          "alt": "certix"
+        },
+        {
+          "id": 2,
+          "image": "avalancheLogo",
+          "alt": "avalancheLogo"
+        },
+        {
+          "id": 3,
+          "image": "polygonLogo",
+          "alt": "polygonLogo"
+        },
+        {
+          "id": 4,
+          "image": "binanceLogo",
+          "alt": "binanceLogo"
+        },
+        {
+          "id": 5,
+          "image": "bitmart",
+          "alt": "bitmart"
+        },
+        {
+          "id": 6,
+          "image": "xt",
+          "alt": "xt"
+        },
+        {
+          "id": 7,
+          "image": "bitmart",
+          "alt": "bitmart"
+        },
+        {
+          "id": 8,
+          "image": "xt",
+          "alt": "xt"
+        }
+      ]
+    },
+    "section8": {
+      "title": "Top Blockchains For The NFT Development",
+      "description": "We can evaluate popular blockchains to identify the best one for your NFT project. Thorough research helps us align with your business goals and project requirements. We analyze technical aspects such as speed, security, and scalability to ensure efficient NFT creation and deployment.",
+      "backGroundColor": "bg-black",
+      "services": [
+        {
+          "id": 1,
+          "image": "polygonMaticLogo",
+          "alt": "polygonMaticLogo",
+          "description": "Ethereum: It's the most widely used blockchain for NFTs, and has a large and active developer community."
+        },
+        {
+          "id": 2,
+          "image": "shellLogo",
+          "alt": "shellLogo",
+          "description": "Flow: A newer blockchain designed for NFT and gaming applications, offering fast transaction times and low fees, with partnerships with major brands"
+        },
+        {
+          "id": 3,
+          "image": "radioshackLogo",
+          "alt": "radioshackLogo",
+          "description": "Polkadot: It's highly scalable and allows for interoperability between different blockchains, with strong security features and a growing developer community"
+        },
+        {
+          "id": 4,
+          "image": "mcDonaldsLogo",
+          "alt": "mcDonaldsLogo",
+          "description": "Polygon is a Layer-2 scaling solution on Ethereum that offers faster and cheaper transactions compared to the main Ethereum network. Polygon is compatible with Ethereum, making it easy to transfer NFTs between the two networks"
+        },
+        {
+          "id": 5,
+          "image": "EconetLogo",
+          "alt": "EconetLogo",
+          "description": "Cardano is known for its focus on sustainability and scalability, making it a promising option for businesses looking to create NFTs."
+        },
+        {
+          "id": 6,
+          "image": "LI-FUNGLogo",
+          "alt": "LI-FUNGLogo",
+          "description": "Avalanche uses a consensus algorithm called Avalanche-X that allows for high throughput and low latency, making it a good option for businesses looking to create NFTs for high-traffic applications."
+        },
+        {
+          "id": 7,
+          "image": "globant-Logo",
+          "alt": "globant-Logo",
+          "description": "Solana uses a Proof-of-History consensus algorithm that allows for high throughput and low latency, making it a good option for businesses looking to create NFTs for gaming and other high-performance applications"
+        },
+        {
+          "id": 8,
+          "image": "bh",
+          "alt": "bh",
+          "description": "Tezos is a blockchain that uses a Proof-of-Stake consensus algorithm and offers smart contract functionality. Tezos offers lower transaction fees compared to Ethereum and is known for its focus on governance and community involvement"
+        }
+      ]
+    },
+    "section9": {
+      "title": "We Spotlighted In",
+      "subtitle": "",
+      "services": [
+        {
+          "id": 1,
+          "image": "be",
+          "alt": "be"
+        },
+        {
+          "id": 2,
+          "image": "ib",
+          "alt": "ib"
+        },
+        {
+          "id": 3,
+          "image": "di",
+          "alt": "di"
+        },
+        {
+          "id": 4,
+          "image": "mw",
+          "alt": "mw"
+        },
+        {
+          "id": 5,
+          "image": "sa",
+          "alt": "sa"
+        },
+        {
+          "id": 6,
+          "image": "c",
+          "alt": "c"
+        },
+        {
+          "id": 7,
+          "image": "ya",
+          "alt": "ya"
+        },
+        {
+          "id": 8,
+          "image": "mi",
+          "alt": "mi"
+        },
+        {
+          "id": 9,
+          "image": "si",
+          "alt": "si"
+        }
+      ]
+    },
+    "section10": {
+      "title": "Business Benefits of NFT Token Development",
+      "subtitle": "",
+      "description": "NFT development offers many benefits for businesses taking advantage of new-age technological advancements.",
+      "services": [
+        {
+          "id": "01",
+          "title": "Authenticity Verification",
+          "titleColor": "text-[#E13FE4]",
+          "description": "With NFTs, businesses can authenticate the ownership and uniqueness of their digital assets, protecting their intellectual property rights and building trust with their customers."
+        },
+        {
+          "id": "02",
+          "title": "Fractionalization",
+          "titleColor": "text-[#01D092]",
+          "description": "NFTs can be divided into smaller fractions, enabling businesses to sell ownership stakes in high-value digital assets to multiple investors. This opens up new opportunities for crowdfunding and alternative investment strategies"
+        },
+        {
+          "id": "03",
+          "title": "Social Impact",
+          "titleColor": "text-[#E89900]",
+          "description": "NFTs can be used to support social impact initiatives, such as charitable donations or environmental conservation efforts, providing businesses with a new way to showcase their corporate social responsibility."
+        },
+        {
+          "id": "04",
+          "title": "Enhanced creativity",
+          "titleColor": "text-[#6A3FE4]",
+          "description": "NFTs provide artists and creators with a new medium to express themselves and showcase their work. This can attract new talent to a business and foster a culture of creativity and innovation"
+        },
+        {
+          "id": "05",
+          "title": "Unique branding opportunities:",
+          "titleColor": "text-[#D02601]",
+          "description": "NFTs provide businesses with the opportunity to create unique, one-of-a-kind digital assets that can help differentiate their brand from competitors. This can be particularly useful in industries where standing out from the crowd is important"
+        },
+        {
+          "id": "06",
+          "title": "New revenue streams",
+          "titleColor": "text-[#E13FE4]",
+          "description": "NFTs can be used to monetize digital assets that previously may not have had a clear revenue stream. For example, a sports team could create NFTs of memorable game highlights, or a musician could sell NFTs of unreleased tracks."
+        }
+      ]
+    },
+    "section11": {
+      "title": "Non-Fungible Token Development Services",
+      "subtitle": "",
+      "description": "The rise in NFT popularity has led to the emergence of NFT development services that offer end-to-end solutions. These services include smart contract development, tokenization, blockchain integration, marketplace development, and NFT wallet development. NFT development services are essential for creating and deploying NFTs. They provide end-to-end solutions with skilled blockchain developers, enabling businesses and individuals to create unique and valuable digital assets for trading on blockchain platforms",
+      "services": [
+        {
+          "id": 1,
+          "title": "Smart contract development for NFTs creation and management",
+          "description": "Our skilled blockchain developers create custom smart contracts that define the rules and functionality of NFTs, enabling secure and efficient NFT creation and management.",
+          "image": "integration",
+          "alt": "integration"
+        },
+        {
+          "id": 2,
+          "title": "NFT tokenization to convert real-world assets into NFTs",
+          "description": "We can tokenize any real-world asset, such as art, music, or gaming items, and convert them into NFTs, providing an opportunity for businesses and individuals to create unique and valuable digital assets.",
+          "image": "consumer",
+          "alt": "consumer"
+        },
+        {
+          "id": 3,
+          "title": "Marketplace development for buying and selling NFTs ",
+          "description": "We create NFT marketplaces where buyers and sellers can trade NFTs, providing a platform for businesses and individuals to monetize their NFTs.",
+          "image": "embedded",
+          "alt": "embedded"
+        },
+        {
+          "id": 4,
+          "title": "NFT wallet development for safe storage",
+          "description": "We create custom NFT wallets that enable safe and efficient storage and management of NFTs, providing an easy-to-use interface for accessing and trading NFTs.",
+          "image": "smartAdaption",
+          "alt": "smartAdaption"
+        },
+        {
+          "id": 5,
+          "title": "Consultation services to guide clients",
+          "description": "Our team of experts provides consultation services to guide clients on NFT development and implementation, helping them understand the potential of NFTs and how to leverage them for their business.",
+          "image": "performance",
+          "alt": "performance"
+        },
+        {
+          "id": 6,
+          "title": "NFT auditing services to ensure security",
+          "description": "By using our NFT auditing services, clients can trade their NFTs with confidence, knowing that they meet all necessary security, transparency, and regulatory standards.",
+          "image": "realTime",
+          "alt": "realTime"
+        }
+      ]
+    },
+    "section12": {
+      "title": "Blockchain App Factory’s Decentralized",
+      "subtitle": "NFT Development Service",
+      "backgroundColor": "bg-[#EDEDED]",
+      "services": [
+        {
+          "id": 1,
+          "image": "blockchainExperience",
+          "alt": "blockchainExperience",
+          "title": "Total Blockchain Experience",
+          "description": "7+ Years"
+        },
+        {
+          "id": 2,
+          "image": "projectsCompleted",
+          "alt": "projectsCompleted",
+          "title": "Projects Completed",
+          "description": "200"
+        },
+        {
+          "id": 3,
+          "image": "projectsinProgress",
+          "alt": "projectsinProgress",
+          "title": "Projects in progress",
+          "description": "50+"
+        },
+        {
+          "id": 4,
+          "image": "blockchainExperts",
+          "alt": "blockchainExperts",
+          "title": "Blockchain Experts",
+          "description": "150+"
+        },
+        {
+          "id": 5,
+          "image": "teamExperts",
+          "alt": "teamExperts",
+          "title": "Team",
+          "description": "50+"
+        },
+        {
+          "id": 6,
+          "image": "teamExperts",
+          "alt": "teamExperts",
+          "title": "Team",
+          "description": "50+"
+        }
+      ]
+    },
+    "section13": {
+      "title": "Frequently Asked Questions - NFTs",
+      "subtitle": "Frequently asked questions",
+      "services": [
+        {
+          "id": 1,
+          "question": "What are NFT development services?",
+          "answer": "NFT development services refer to the services provided by companies or developers that create Non-Fungible Tokens (NFTs) for clients. These services include NFT creation, customization, smart contract development, and integration with blockchain platforms."
+        },
+        {
+          "id": 2,
+          "question": "What are the benefits of NFT development services?",
+          "answer": "The benefits of NFT development services include increased brand recognition, improved customer engagement, new revenue streams, and increased security through blockchain technology. NFTs also allow for the creation of unique, scarce digital assets that can be easily transferred and authenticated."
+        },
+        {
+          "id": 3,
+          "question": "What is the process for developing an NFT?",
+          "answer": "The process for developing an NFT typically involves defining the asset, creating the design or artwork, developing the smart contract, and minting the NFT on a blockchain platform. The NFT can then be listed on a marketplace or sold directly to a buyer."
+        },
+        {
+          "id": 4,
+          "question": "What blockchain platforms support NFT development?",
+          "answer": "Several blockchain platforms support NFT development, including Ethereum, Binance Smart Chain, Polygon, and Flow. Each platform has its own advantages and disadvantages, and the choice of platform will depend on the specific needs of the NFT project."
+        },
+        {
+          "id": 5,
+          "question": "How much do NFT development services cost?",
+          "answer": "The cost of NFT development services varies depending on the complexity of the project and the level of customization required. Some companies offer NFT development packages starting from a few thousand dollars, while more complex projects can cost tens of thousands of dollars or more. It's important to get a detailed quote from the service provider before starting the project."
+        }
+      ]
+    },
+    "section14": {
+      "title": "Latest Blogs",
+      "subtitle": "",
+      "description": "The key aspects of our approach to Android game app development are solid technical knowledge and excellent orientation in the players' desires and expectations. We follow all the wishes of the client and at the same time offer innovative and relevant solutions to increase the player's engagement and achieve a large number of game downloads.",
+      "services": [
+        {
+          "id": 1,
+          "link": "/",
+          "name": "How Airlines Can Save Millions with Blockchain",
+          "image": "blogs1",
+          "alt": "blogs1",
+          "title": "How Airlines Can Save Millions with Blockchain",
+          "description": "Blockchain is the latest buzz in the business world. This tech trend has been gaining traction in many industries, and the aviation sector is no exception. But…"
+        },
+        {
+          "id": 2,
+          "link": "/",
+          "name": "How Airlines Can Save Millions with Blockchain",
+          "image": "blogs2",
+          "alt": "blogs2",
+          "title": "How Airlines Can Save Millions with Blockchain",
+          "description": "Blockchain is the latest buzz in the business world. This tech trend has been gaining traction in many industries, and the aviation sector is no exception. But…"
+        },
+        {
+          "id": 3,
+          "link": "/",
+          "name": "How Airlines Can Save Millions with Blockchain",
+          "image": "blogs1",
+          "alt": "blogs1",
+          "title": "How Airlines Can Save Millions with Blockchain",
+          "description": "Blockchain is the latest buzz in the business world. This tech trend has been gaining traction in many industries, and the aviation sector is no exception. But…"
+        }
+      ]
+    },
+    "section15": {
+      "services": [
+        {
+          "id": 1,
+          "link": "/",
+          "image": "appleGame",
+          "alt": "iOS Game Development",
+          "title": "iOS Game Development",
+          "description": "We build reliable tailor-made Android app development solutions that fit best to your business needs.",
+          "buttonName": "<--- Know more"
+        },
+        {
+          "id": 2,
+          "link": "/",
+          "image": "videoGame",
+          "alt": "MMORPG Game Development",
+          "title": "MMORPG Game Development",
+          "description": "We build reliable tailor-made Android app development solutions that fit best to your business needs.",
+          "buttonName": "Know more --->"
+        }
+      ]
+    }
+  }
+}

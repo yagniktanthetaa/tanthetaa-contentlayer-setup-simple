@@ -1,0 +1,1 @@
+export { TechnologiesImages } from "./TechnologiesImages";
